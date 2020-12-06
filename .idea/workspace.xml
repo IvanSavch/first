@@ -10,13 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c24e4de-fc72-4ba5-ab0d-9e7ef7cc7e86" name="Default Changelist" comment="homework4">
-      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm5/calculator/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm5/string/StringStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm5/table/Table.java" afterDir="false" />
+    <list default="true" id="6c24e4de-fc72-4ba5-ab0d-9e7ef7cc7e86" name="Default Changelist" comment="homework5">
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/Human/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/Human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/Human/HumanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/Stoki/JoraPidr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/book/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/book/Boo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/figures/CalculationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/figures/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/figures/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/figures/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/list/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm6/list/Person2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/by.hard/by/bellhard/bhj24/homework/hm4/Order/BuyProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/by.hard/by/bellhard/bhj24/homework/hm4/Order/BuyProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm4/Order/BuyProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bellhard/bhj24/homework/hm4/Order/BuyProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,18 +51,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/orderMenuTAXI" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.StringStorage">
-    <configuration name="BuyProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm4.Order.BuyProduct" />
+  <component name="RunManager" selected="Application.Person2">
+    <configuration name="Boo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm6.book.Boo1" />
       <module name="by.hard" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm4.Order.*" />
+          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm6.Human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm5.calculator.Calculator" />
+    <configuration name="BookExampls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm6.BookExampls" />
       <module name="by.hard" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm5.calculator.*" />
+          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm6.Human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringStorage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm5.string.StringStorage" />
+    <configuration name="CalculationUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm6.figures.CalculationUtils" />
       <module name="by.hard" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm5.string.*" />
+          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm6.figures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm5.table.Table" />
+    <configuration name="HumanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm6.Human.HumanExample" />
       <module name="by.hard" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm5.table.*" />
+          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm6.Human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm4.Task1_1" />
+    <configuration name="Person2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bellhard.bhj24.homework.hm6.list.Person2" />
       <module name="by.hard" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm4.*" />
+          <option name="PATTERN" value="by.bellhard.bhj24.homework.hm6.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringStorage" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Table" />
-        <item itemvalue="Application.BuyProduct" />
-        <item itemvalue="Application.Task1_1" />
+        <item itemvalue="Application.Person2" />
+        <item itemvalue="Application.CalculationUtils" />
+        <item itemvalue="Application.HumanExample" />
+        <item itemvalue="Application.Boo1" />
+        <item itemvalue="Application.BookExampls" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606678067643</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework5">
+      <created>1606933793083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606933793083</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework5">
+      <created>1606934293893</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606934293893</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +216,8 @@
     <MESSAGE value="-m&quot;first&quot;" />
     <MESSAGE value="-m&quot;second&quot;" />
     <MESSAGE value="homework4" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework4" />
+    <MESSAGE value="homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="262" y="212" width="816" height="729" key="#Intentions" timestamp="1606328894859">
@@ -208,54 +232,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="732" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605462839743" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1606928098619">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1607272938003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606928098619" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606042661041">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607272938003" />
+    <state x="727" y="414" width="468" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607257709106">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606042661041" />
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1606933505880">
+    <state x="727" y="414" width="468" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1607257709106" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607274146153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606933505880" />
-    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1606933505879">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607274146153" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1607275599826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606933505879" />
-    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1606933505879">
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607275599826" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1607275599826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606933505879" />
-    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1606933505880">
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607275599826" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1607275599826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606933505880" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1606567915714">
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607275599826" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1607275599826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606567915714" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1606567915714">
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607275599826" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1607269513652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606567915714" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1606567915714">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607269513652" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1607269513652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606567915714" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1606567915714">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607269513652" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1607269513652">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606567915714" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607269513652" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1607269513652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607269513652" />
     <state x="790" y="389" key="VCS.EditChangelistDialog" timestamp="1606042718121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="389" key="VCS.EditChangelistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606042718121" />
-    <state x="471" y="336" key="Vcs.Push.Dialog.v2" timestamp="1606334612622">
+    <state x="471" y="336" key="Vcs.Push.Dialog.v2" timestamp="1606934154271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="471" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606334612622" />
+    <state x="471" y="336" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606934154271" />
     <state x="579" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606042770558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -264,10 +292,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="270" width="1019" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1606320927702" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1606931297473">
+    <state x="660" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1607253998928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606931297473" />
+    <state x="660" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607253998928" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607265895053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607265895053" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605986723946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
